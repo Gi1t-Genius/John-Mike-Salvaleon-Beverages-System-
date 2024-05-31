@@ -1,1 +1,2 @@
-# John-Mike-Salvaleon-Beverages-System-
+My project, Beverage System is a Python program that organizes beverage inventory and operations. It employs object-oriented principles like inheritance, encapsulation, abstraction, and polymorphism to model different beverage types efficiently. Through classes like Beverage, HotBeverage, and ColdBeverage, it manages attributes and behaviors such as name, price, and taste. The system allows users to create, describe, and differentiate between hot and cold beverages, providing a foundation for extending functionalities like inventory management and sales
+tracking.
